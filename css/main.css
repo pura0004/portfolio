@@ -156,3 +156,25 @@ a {
 }
 
 
+/* ------------ FOOTER ------------ */
+
+footer {
+	text-align: center;
+}
+
+footer div {
+	display: inline-block;
+
+	margin: 2em 4em;
+}
+
+footer a,
+footer p {
+	color: #27b5e4;
+}
+
+.icons a {
+	margin: 0 2em;
+}
+
+
